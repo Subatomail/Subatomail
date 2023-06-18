@@ -5,28 +5,37 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ismail</h1></summary>
+    <summary><h1 style="display: inline-block">Hi <img src="./Hi.gif" width="30px">, I'm Ismail !</h1></summary>
   </ul>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=42BC15&size=25&center=true&vCenter=true&width=600&height=25&lines=Software+Engineer;AI+Engineer;DevOps+Engineer;ML+Engineer;Web+Developer;IT+Instructor;UX/UI+Designer"></a>
+</p>
 </div>
 
 
  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subatomail&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-23-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English,%20French%20%26%20Arabic-brightgreen" />
 </p>
-<hr>
-<h1 align="center">Hi <img src="./Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
-<p align="center">
-<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+
+<p align="justify">
+<img align="right" width=180px height=180px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+  
+  <em>
+    Greetings! I am <b>Ismail Yazini</b>, a final-year <b>Master of AI</b> student hailing from the captivating lands of <a href="https://ulaval.ca/"><b>University Laval</b></a> in Quebec, Canada. <br>As an unrelenting <b>enthusiast</b> of the realms of self-learning <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a fervent <b>AI and Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp, I find myself relentlessly consumed by the mesmerizing world of <b>data science</b>. My insatiable hunger lies in uncovering the clandestine patterns veiled within the intricate tapestry of data, forever chasing the elusive secrets that lie within.
+    
+  </em> 
+  <br>
+  
 </p>
-</p>
+<br>
+
+<div id="user-content-toc">
+     <p align="center">
+    <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>&nbsp;<i>Git Activity</h2></i></p>  
+</div>
 
 <!--- snake -->
 <div align="center">
@@ -34,101 +43,39 @@
        alt="snake" /></a>
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on 
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **yazini.ismail@gmail.com**
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=subatomail&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=subatomail&theme=dark&hide_border=false" /> 
-</td>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=subatomail&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>&emsp;&emsp;&emsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=subatomail&layout=compact&langs_count=8&theme=blue-green"/>
+</a>
+</p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=subatomail&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=subatomail&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+     <p align="center">
+    <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" alt="Git"/>&nbsp;<i>Tech Stack</h2></i></p>  
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,python,r,pytorch,tensorflow,flask,django,html,css,sass,javascript,jquery,ts,php,laravel,react,vue,angular,redux,nodejs,vite,spring,nextjs,express,bootstrap,materialui,tailwind,firebase,redis,heroku,mongodb,mysql,sqlite,nginx,postgres,regex,linux,bash,powershell,git,github,gitlab,maven,docker,kubernetes,jenkins,ansible,fastapi,postman,latex,stackoverflow,eclipse,androidstudio,idea,vscode&perline=11" />
   </a>
 </p>
 
 
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+     <p align="center">
+    <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="40px" alt="Git"/>Connect with Me</h2></i></p>  
 </div>
 
-<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/ismail-yazini/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/smailsubt/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  
+<a href="subatomail.github.io"><img src="https://img.shields.io/badge/-subatomail.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Ismail%20Yazini-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:yazini.ismail@gmail.com"><img src="https://img.shields.io/badge/-yazini.ismail@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ismailsubt"><img src="https://img.shields.io/badge/-@ismailsubt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/smailyaz/"><img src="https://img.shields.io/badge/-@SmailYaz-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=subatomail&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
