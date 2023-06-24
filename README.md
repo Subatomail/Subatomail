@@ -69,7 +69,7 @@
 </div>
 
 <p align="center">
-<a href="subatomail.github.io"><img src="https://img.shields.io/badge/-subatomail.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://subatomail.github.io/"><img src="https://img.shields.io/badge/-subatomail.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ismail-yazini"><img src="https://img.shields.io/badge/-Ismail%20Yazini-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yazini.ismail@gmail.com"><img src="https://img.shields.io/badge/-yazini.ismail@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ismailsubt"><img src="https://img.shields.io/badge/-@ismailsubt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
